@@ -289,8 +289,10 @@ Both schemas use Mongoose's schema options for virtuals, allowing for additional
 This schema design allows for comprehensive model management, user authentication, and role-based access control within the Model Scout API.
 
 ## API Documentation
+Can find my postman documentation for the project through the following link:
+https://documenter.getpostman.com/view/32984944/2sAXxQfCgF
 
-### Endpoints
+### More Detail on the Password Reset Endpoints
 ## Password Reset
 
 This API provides endpoints for resetting user passwords. The process involves two steps:
