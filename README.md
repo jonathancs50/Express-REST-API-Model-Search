@@ -63,8 +63,8 @@ C:\Express-Rest-API-ScoutModel
 ### Prerequisites
 
 - Node.js 
-- MongoDB 
-- Mail Trap
+- MongoDB Account to host database
+- Mail Trap (to test emailing)
 - Mail Gun (optional)
 
 ### Installation
