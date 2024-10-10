@@ -22,7 +22,7 @@
 
 ## Project Overview
 
-[Brief description of your project]
+his project is a RESTful API built with Node.js and Express, designed to serve as a dynamic model database for companies in the fashion and entertainment industries. The application allows users to search for models based on specific attributes such as singing ability, hair color, eye color, and other relevant characteristics. It implements a three-tier user system comprising administrators, models, and standard users, each with tailored access and functionality. 
 
 Structure:
 ```
@@ -143,6 +143,24 @@ If you ever want to start fresh and remove all data:
    node dev-data/script.js --delete
    ```
 3. Wait for the "DB deleted!" message
+
+### 5. This application can be run in two modes:
+
+1. Development Mode:
+   - Command: `npm start`
+   - Features:
+     - Provides detailed error messages
+     - Offers a more comprehensive view of the application's workings
+     - Recommended for debugging and understanding the application structure
+   
+2. Production Mode:
+   - Command: `npm run start:prod`
+   - Features:
+     - Optimized for performance
+     - Limited error information for security
+     - Suitable for deployment in live environments
+
+For the best development experience and to gain insights into the application's functionality, it's recommended to use the development mode (`npm start`).
 
 ## What's Next?
 
