@@ -1,0 +1,46 @@
+{
+  "name": "nodejs-model-project",
+  "version": "1.0.0",
+  "description": "Search for models",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "start:prod": "cross-env NODE_ENV=production nodemon server.js",
+    "debug": "ndb server.js"
+  },
+  "author": "Jonathan Loxton",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.20.0",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^7.4.0",
+    "helmet": "^7.1.0",
+    "hpp": "^0.2.3",
+    "html-to-text": "^9.0.5",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.8.1",
+    "mongoose": "^5.13.22",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.9.15",
+    "nodemailer-mailgun-transport": "^2.1.5",
+    "slugify": "^1.6.6",
+    "validator": "^13.12.0",
+    "xss-clean": "^0.1.4"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.30.0",
+    "eslint-plugin-jsx-a11y": "^6.10.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-react": "^7.35.2",
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  }
+}

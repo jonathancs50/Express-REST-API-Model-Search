@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "role": "user",
+    "photo": "default.jpg",
+    "password": "password",
+    "passwordConfirm": "password"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "role": "model",
+    "photo": "jane.jpg",
+    "password": "password",
+    "passwordConfirm": "password"
+  },
+  {
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "role": "admin",
+    "photo": "admin.jpg",
+    "password": "password",
+    "passwordConfirm": "password"
+  }
+]

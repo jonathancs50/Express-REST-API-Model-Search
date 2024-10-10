@@ -1,0 +1,405 @@
+[
+  {
+    "name": "Samantha Evans",
+    "age": 25,
+    "height": "5'9\"",
+    "weight": "130 lbs",
+    "measurements": {
+      "bust": "34 in",
+      "waist": "24 in",
+      "hips": "35 in"
+    },
+    "shoe_size": "8",
+    "dress_size": "4",
+    "hair_color": "Brown",
+    "hair_length": "Long",
+    "eye_color": "Hazel",
+    "skin_tone": "Fair",
+    "ethnicity": "Caucasian",
+    "tattoos": "None",
+    "piercings": "Ears",
+    "distinctive_features": "Freckles",
+    "skills": ["Yoga", "Horseback Riding"],
+    "languages": ["English"],
+    "experience": {
+      "runway": true,
+      "editorial": true,
+      "commercial": true
+    },
+    "social_media": {
+      "instagram": "@samantha_evans"
+    },
+    "imageCover": "cover_samantha.jpg",
+    "images": ["img1.jpg", "img2.jpg", "img3.jpg"],
+    "createdAt": "2023-01-15T10:20:00Z"
+  },
+  {
+    "name": "Carlos Martinez",
+    "age": 30,
+    "height": "6'2\"",
+    "weight": "185 lbs",
+    "measurements": {
+      "chest": "40 in",
+      "waist": "32 in"
+    },
+    "shoe_size": "11",
+    "dress_size": null,
+    "hair_color": "Black",
+    "hair_length": "Short",
+    "eye_color": "Brown",
+    "skin_tone": "Olive",
+    "ethnicity": "Latino",
+    "tattoos": "Sleeve on left arm",
+    "piercings": "None",
+    "distinctive_features": "Scar on cheek",
+    "skills": ["Boxing", "Salsa Dancing"],
+    "languages": ["Spanish", "English"],
+    "experience": {
+      "runway": false,
+      "editorial": true,
+      "commercial": true
+    },
+    "social_media": {
+      "instagram": "@carlos_martinez"
+    },
+    "imageCover": "cover_carlos.jpg",
+    "images": ["img4.jpg", "img5.jpg"],
+    "createdAt": "2023-02-18T08:45:00Z"
+  },
+  {
+    "name": "Aisha Khan",
+    "age": 22,
+    "height": "5'7\"",
+    "weight": "120 lbs",
+    "measurements": {
+      "bust": "32 in",
+      "waist": "23 in",
+      "hips": "34 in"
+    },
+    "shoe_size": "7",
+    "dress_size": "2",
+    "hair_color": "Black",
+    "hair_length": "Medium",
+    "eye_color": "Brown",
+    "skin_tone": "Medium",
+    "ethnicity": "South Asian",
+    "tattoos": "None",
+    "piercings": "Ears, Nose",
+    "distinctive_features": "Dimples",
+    "skills": ["Makeup Artistry", "Singing"],
+    "languages": ["Urdu", "English"],
+    "experience": {
+      "runway": true,
+      "editorial": false,
+      "commercial": true
+    },
+    "social_media": {
+      "instagram": "@aishakhan"
+    },
+    "imageCover": "cover_aisha.jpg",
+    "images": ["img6.jpg", "img7.jpg", "img8.jpg"],
+    "createdAt": "2023-03-22T11:30:00Z"
+  },
+  {
+    "name": "Liam O'Connor",
+    "age": 28,
+    "height": "6'0\"",
+    "weight": "170 lbs",
+    "measurements": {
+      "chest": "38 in",
+      "waist": "30 in"
+    },
+    "shoe_size": "10",
+    "dress_size": null,
+    "hair_color": "Blonde",
+    "hair_length": "Short",
+    "eye_color": "Blue",
+    "skin_tone": "Fair",
+    "ethnicity": "Irish",
+    "tattoos": "None",
+    "piercings": "None",
+    "distinctive_features": "High cheekbones",
+    "skills": ["Football", "Surfing"],
+    "languages": ["English"],
+    "experience": {
+      "runway": false,
+      "editorial": true,
+      "commercial": true
+    },
+    "social_media": {
+      "instagram": "@liam_oconnor"
+    },
+    "imageCover": "cover_liam.jpg",
+    "images": ["img9.jpg", "img10.jpg"],
+    "createdAt": "2023-04-05T14:15:00Z"
+  },
+  {
+    "name": "Elena Rodriguez",
+    "age": 24,
+    "height": "5'8\"",
+    "weight": "125 lbs",
+    "measurements": {
+      "bust": "33 in",
+      "waist": "24 in",
+      "hips": "35 in"
+    },
+    "shoe_size": "8.5",
+    "dress_size": "4",
+    "hair_color": "Dark Brown",
+    "hair_length": "Long",
+    "eye_color": "Green",
+    "skin_tone": "Tan",
+    "ethnicity": "Latina",
+    "tattoos": "Small tattoo on ankle",
+    "piercings": "Ears",
+    "distinctive_features": "Mole near lip",
+    "skills": ["Dancing", "Swimming"],
+    "languages": ["Spanish", "English"],
+    "experience": {
+      "runway": true,
+      "editorial": true,
+      "commercial": true
+    },
+    "social_media": {
+      "instagram": "@elena_rod"
+    },
+    "imageCover": "cover_elena.jpg",
+    "images": ["img11.jpg", "img12.jpg", "img13.jpg"],
+    "createdAt": "2023-05-10T12:00:00Z"
+  },
+  {
+    "name": "David Lee",
+    "age": 29,
+    "height": "5'11\"",
+    "weight": "160 lbs",
+    "measurements": {
+      "chest": "40 in",
+      "waist": "32 in"
+    },
+    "shoe_size": "10",
+    "dress_size": null,
+    "hair_color": "Black",
+    "hair_length": "Short",
+    "eye_color": "Brown",
+    "skin_tone": "Medium",
+    "ethnicity": "Asian",
+    "tattoos": "Dragon tattoo on back",
+    "piercings": "None",
+    "distinctive_features": "Sharp jawline",
+    "skills": ["Martial Arts", "Photography"],
+    "languages": ["Korean", "English"],
+    "experience": {
+      "runway": true,
+      "editorial": false,
+      "commercial": true
+    },
+    "social_media": {
+      "instagram": "@david_lee"
+    },
+    "imageCover": "cover_david.jpg",
+    "images": ["img14.jpg", "img15.jpg"],
+    "createdAt": "2023-06-12T16:25:00Z"
+  },
+  {
+    "name": "Mariah Simmons",
+    "age": 23,
+    "height": "5'10\"",
+    "weight": "135 lbs",
+    "measurements": {
+      "bust": "34 in",
+      "waist": "25 in",
+      "hips": "36 in"
+    },
+    "shoe_size": "9",
+    "dress_size": "6",
+    "hair_color": "Red",
+    "hair_length": "Long",
+    "eye_color": "Blue",
+    "skin_tone": "Fair",
+    "ethnicity": "Caucasian",
+    "tattoos": "Butterfly on wrist",
+    "piercings": "Ears",
+    "distinctive_features": "Freckles",
+    "skills": ["Painting", "Running"],
+    "languages": ["English"],
+    "experience": {
+      "runway": true,
+      "editorial": true,
+      "commercial": true
+    },
+    "social_media": {
+      "instagram": "@mariah_sim"
+    },
+    "imageCover": "cover_mariah.jpg",
+    "images": ["img16.jpg", "img17.jpg"],
+    "createdAt": "2023-07-18T09:40:00Z"
+  },
+  {
+    "name": "Jenna Taylor",
+    "age": 27,
+    "height": "5'11\"",
+    "weight": "140 lbs",
+    "measurements": {
+      "bust": "34 in",
+      "waist": "26 in",
+      "hips": "36 in"
+    },
+    "shoe_size": "9.5",
+    "dress_size": "6",
+    "hair_color": "Blonde",
+    "hair_length": "Long",
+    "eye_color": "Blue",
+    "skin_tone": "Fair",
+    "ethnicity": "Caucasian",
+    "tattoos": "Star tattoo on wrist",
+    "piercings": "Ears",
+    "distinctive_features": "High cheekbones",
+    "skills": ["Cycling", "Yoga"],
+    "languages": ["English", "French"],
+    "experience": {
+      "runway": true,
+      "editorial": true,
+      "commercial": true
+    },
+    "social_media": {
+      "instagram": "@jenna_taylor"
+    },
+    "imageCover": "cover_jenna.jpg",
+    "images": ["img18.jpg", "img19.jpg", "img20.jpg"],
+    "createdAt": "2023-08-12T10:15:00Z"
+  },
+  {
+    "name": "Marcus Johnson",
+    "age": 31,
+    "height": "6'3\"",
+    "weight": "195 lbs",
+    "measurements": {
+      "chest": "42 in",
+      "waist": "34 in"
+    },
+    "shoe_size": "12",
+    "dress_size": null,
+    "hair_color": "Brown",
+    "hair_length": "Short",
+    "eye_color": "Green",
+    "skin_tone": "Dark",
+    "ethnicity": "African American",
+    "tattoos": "None",
+    "piercings": "None",
+    "distinctive_features": "Broad shoulders",
+    "skills": ["Basketball", "Guitar"],
+    "languages": ["English"],
+    "experience": {
+      "runway": true,
+      "editorial": true,
+      "commercial": false
+    },
+    "social_media": {
+      "instagram": "@marcus_johnson"
+    },
+    "imageCover": "cover_marcus.jpg",
+    "images": ["img21.jpg", "img22.jpg"],
+    "createdAt": "2023-09-14T13:45:00Z"
+  },
+  {
+    "name": "Sofia Lopez",
+    "age": 24,
+    "height": "5'6\"",
+    "weight": "125 lbs",
+    "measurements": {
+      "bust": "33 in",
+      "waist": "24 in",
+      "hips": "35 in"
+    },
+    "shoe_size": "7",
+    "dress_size": "2",
+    "hair_color": "Black",
+    "hair_length": "Long",
+    "eye_color": "Brown",
+    "skin_tone": "Olive",
+    "ethnicity": "Latina",
+    "tattoos": "Flower on shoulder",
+    "piercings": "Ears, Nose",
+    "distinctive_features": "Dimples",
+    "skills": ["Singing", "Dancing"],
+    "languages": ["Spanish", "English"],
+    "experience": {
+      "runway": false,
+      "editorial": true,
+      "commercial": true
+    },
+    "social_media": {
+      "instagram": "@sofia_lopez"
+    },
+    "imageCover": "cover_sofia.jpg",
+    "images": ["img23.jpg", "img24.jpg"],
+    "createdAt": "2023-10-10T15:20:00Z"
+  },
+  {
+    "name": "Daniel Williams",
+    "age": 33,
+    "height": "6'2\"",
+    "weight": "190 lbs",
+    "measurements": {
+      "chest": "44 in",
+      "waist": "36 in"
+    },
+    "shoe_size": "11",
+    "dress_size": null,
+    "hair_color": "Brown",
+    "hair_length": "Short",
+    "eye_color": "Hazel",
+    "skin_tone": "Medium",
+    "ethnicity": "Caucasian",
+    "tattoos": "Anchor on forearm",
+    "piercings": "None",
+    "distinctive_features": "Beard",
+    "skills": ["Climbing", "Photography"],
+    "languages": ["English"],
+    "experience": {
+      "runway": false,
+      "editorial": true,
+      "commercial": true
+    },
+    "social_media": {
+      "instagram": "@daniel_williams"
+    },
+    "imageCover": "cover_daniel.jpg",
+    "images": ["img25.jpg", "img26.jpg"],
+    "createdAt": "2023-11-20T17:05:00Z"
+  },
+  {
+    "name": "Mia Patel",
+    "age": 22,
+    "height": "5'5\"",
+    "weight": "115 lbs",
+    "measurements": {
+      "bust": "32 in",
+      "waist": "23 in",
+      "hips": "34 in"
+    },
+    "shoe_size": "6",
+    "dress_size": "2",
+    "hair_color": "Black",
+    "hair_length": "Medium",
+    "eye_color": "Brown",
+    "skin_tone": "Dark",
+    "ethnicity": "South Asian",
+    "tattoos": "None",
+    "piercings": "Ears",
+    "distinctive_features": "Thick eyebrows",
+    "skills": ["Acting", "Yoga"],
+    "languages": ["Hindi", "English"],
+    "experience": {
+      "runway": true,
+      "editorial": false,
+      "commercial": true
+    },
+    "social_media": {
+      "instagram": "@mia_patel"
+    },
+    "imageCover": "cover_mia.jpg",
+    "images": ["img27.jpg", "img28.jpg"],
+    "createdAt": "2023-12-01T09:00:00Z"
+  }
+]
