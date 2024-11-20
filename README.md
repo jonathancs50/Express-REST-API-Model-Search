@@ -22,7 +22,7 @@
 
 ## Project Overview
 
-his project is a RESTful API built with Node.js and Express, designed to serve as a dynamic model database for companies in the fashion and entertainment industries. The application allows users to search for models based on specific attributes such as singing ability, hair color, eye color, and other relevant characteristics. It implements a three-tier user system comprising administrators, models, and standard users, each with tailored access and functionality. 
+This project is a RESTful API built with Node.js and Express, designed to serve as a dynamic model database for companies in the fashion and entertainment industries. The application allows users to search for models based on specific attributes such as singing ability, hair color, eye color, and other relevant characteristics. It implements a three-tier user system comprising administrators, models, and standard users, each with tailored access and functionality. 
 
 Structure:
 ```
